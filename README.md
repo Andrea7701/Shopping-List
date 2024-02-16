@@ -12,6 +12,7 @@ https://andrea7701.github.io/Shopping-List/
 
 # Built With 
  - ReactJs;
+ - React hooks;
  - Css;
 
 # Author
